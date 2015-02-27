@@ -1,0 +1,15 @@
+C:\Users\John\documents\visual studio 2010\Projects\Proyecto_Encuesta\Proyecto_Encuesta\bin\Debug\Proyecto_Encuesta.exe
+C:\Users\John\documents\visual studio 2010\Projects\Proyecto_Encuesta\Proyecto_Encuesta\bin\Debug\Proyecto_Encuesta.pdb
+C:\Users\John\documents\visual studio 2010\Projects\Proyecto_Encuesta\Proyecto_Encuesta\obj\x86\Debug\Proyecto_Encuesta.Inicio.resources
+C:\Users\John\documents\visual studio 2010\Projects\Proyecto_Encuesta\Proyecto_Encuesta\obj\x86\Debug\Proyecto_Encuesta.frm_Seccion1.resources
+C:\Users\John\documents\visual studio 2010\Projects\Proyecto_Encuesta\Proyecto_Encuesta\obj\x86\Debug\Proyecto_Encuesta.Frm_Informacion_Basica.resources
+C:\Users\John\documents\visual studio 2010\Projects\Proyecto_Encuesta\Proyecto_Encuesta\obj\x86\Debug\Proyecto_Encuesta.Frm_Seccion2.resources
+C:\Users\John\documents\visual studio 2010\Projects\Proyecto_Encuesta\Proyecto_Encuesta\obj\x86\Debug\Proyecto_Encuesta.Frm_Seccion3.resources
+C:\Users\John\documents\visual studio 2010\Projects\Proyecto_Encuesta\Proyecto_Encuesta\obj\x86\Debug\Proyecto_Encuesta.Frm_Seccion4.resources
+C:\Users\John\documents\visual studio 2010\Projects\Proyecto_Encuesta\Proyecto_Encuesta\obj\x86\Debug\Proyecto_Encuesta.Properties.Resources.resources
+C:\Users\John\documents\visual studio 2010\Projects\Proyecto_Encuesta\Proyecto_Encuesta\obj\x86\Debug\Proyecto_Encuesta.csproj.GenerateResource.Cache
+C:\Users\John\documents\visual studio 2010\Projects\Proyecto_Encuesta\Proyecto_Encuesta\obj\x86\Debug\Proyecto_Encuesta.exe
+C:\Users\John\documents\visual studio 2010\Projects\Proyecto_Encuesta\Proyecto_Encuesta\obj\x86\Debug\Proyecto_Encuesta.pdb
+C:\Users\John\Documents\Visual Studio 2010\Projects\Proyecto_Encuesta\Proyecto_Encuesta\obj\x86\Debug\Proyecto_Encuesta.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2010\Projects\Proyecto_Encuesta\Proyecto_Encuesta\obj\x86\Debug\Proyecto_Encuesta.FrmResultados.resources
+C:\Users\John\Documents\Visual Studio 2010\Projects\Proyecto_Encuesta\Proyecto_Encuesta\obj\x86\Debug\Proyecto_Encuesta.Frm_Padre.resources
